@@ -128,6 +128,13 @@ a:focus {
     color: white;
 }
 
+#about span {
+    display: inline-block;
+    text-align: justify;
+    background-color: rgb(232, 54, 54);
+    color: white;
+}
+
 #portfolio {
     background-color: rgb(23, 131, 219);
     color: white;
