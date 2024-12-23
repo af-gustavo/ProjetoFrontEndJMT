@@ -124,7 +124,7 @@ a:focus {
 
 #about {
     text-align: center;
-    background-color: reg(232, 54, 54);
+    background-color: rgb(232, 54, 54);
     color: white;
 }
 
