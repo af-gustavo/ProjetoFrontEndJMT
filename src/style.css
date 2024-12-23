@@ -200,7 +200,10 @@ footer a {
     color: white;
 }
 
-/* Responsividade */
+/* Responsividade - código abaixo confere disponibilidade à página.
+Para dispositivos com resolução superior a 980 pixels os elementos
+filhos da tag nav serão exibidos na mesma linha. Do contrário, tais
+elementos só serão exibidos caso o ícone de menu seja clicado.*/
 
 @media (max-width:500px) {
     .container {
