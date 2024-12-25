@@ -131,6 +131,7 @@ a:focus {
 #about span {
     display: inline-block;
     text-align: justify;
+    margin: 20px;
     background-color: rgb(232, 54, 54);
     color: white;
 }
@@ -140,14 +141,19 @@ a:focus {
     color: white;
 }
 
-#portfolio .grid-item {
+#portfolio .grid-item p {
+    text-align: center;
+}
+
+#portfolio .grid-item2 {
     border: solid 10px rgb(30, 119, 183);
     text-align: center;
     padding: 0;
 }
 
-#portfolio .grid-item img {
+.grid-item2 img {
     max-width: 100%;
+    min-height: 100%;
     margin: 0;
 }
 
