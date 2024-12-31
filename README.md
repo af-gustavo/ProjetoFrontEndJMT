@@ -7,7 +7,7 @@ Este é um site de portfólio pessoal desenvolvido para exibir meus projetos e h
 - **Sobre Mim**: Apresentação breve sobre o criador do portfólio, destacando informações pessoais e profissionais.
 - **Habilidades e Experiências**: Exibição das principais habilidades adquiridas ao longo da minha jornada profissional e educacional, bem como experiências relevantes.
 - **Portfólio**: Galeria com os projetos realizados, com detalhes e links para visualização ou execução dos mesmos.
-- **Contato**: Formulário para contato, possibilitando que visitantes enviem mensagens diretamente.
+- **Contato**: Formulário para contato, possibilitando que visitantes enviem mensagens diretamente. **Atualmente esta seção não funciona**
 
 ## Tecnologias Utilizadas
 
